@@ -1,0 +1,52 @@
+User Manual:  
+https://drive.google.com/open?id=1B6fph4y5T4-0bnukyoOAoNiYDEDBwC5J
+
+Specification:
+
+1. Brand: Motospeed 
+2. Model: CK62
+3. Connection: bluetooth 3.0 & USB-C Wired Dual Mode
+4. Backlit: RGB and Pure White Backlit
+5. Switch: Outemu Blue Switch, Red Switch
+6. Anti-ghosting Number: NKRO
+7. Key Number: 61 Key 60% Layout
+8. Current: 5V - 300mA(Wired Mode), 3.7V - 200mA(bluetooth Mode) 
+9. Power Supply: Built-in 1300mAh Li-ion Battery 
+10. Charging Time: 3 - 4 hours 
+11. Standby time: 480 hours 
+12. Working Time: 10 hours
+13. System support: Android, for iOS, Windows 
+14. Wireless Transmit Range: 10m 
+15. Keyboard Lifespan ( times): 50 million times 
+16. Response Speed: 0.1ms 
+17. Product size (L x W x H): 29.00 x 10.00 x 4.00 cm / 11.42 x 3.94 x 1.57 inches 
+18. Product weight:490g
+19. Cable Length (m): 1.5M 
+
+Features:
+
+1. Supports bluetooth and wired dual mode connection, suits for business travel or outdoors entertainment.
+    Long press the "Fn" + "Mode" key can switch the connection mode.
+    Yellow light flash three times then turn green, the keyboard enters into the wired mode.
+    Purple light flash three times then turn blue, it enters into the bluetooth mode.
+
+2. How to pair with the device in bluetooth mode?
+    First: Turn on the bluetooth power switch on the back.
+    Second: Short press the Fn + E/R/T to pair with the bluetooth devices.
+    Third: Long press Fn + Q for 3-5s to enter to the pairing status, blue light below the Caps key blinks; search the keyboard signal in your bluetooth device and choose to connect. Blue light will go out when successfully connected.
+
+3. Multiple backlit modes for option.
+   Press the Fn + MENU key can switch the backlit modes, press the Fn + Right Ctrl can witch the baclit colors.
+   Press the Fn + O/P key can adjust the display speed and press Fn + U/I key can adjust the backlit brightness. 
+    
+4. Transcoding mode for more function. Press Fn + 1/2/3/4 for about 3s to realize transcoding function, pink indicator light shines on.
+    Long press Fn + 1 until the pink light below 1 key shines on, "1, 2, 3, 4, 5, 6, 7, 8, 9, 0, -, =" can change to "F1 - F12" function.
+    Long press Fn + 2 until the pink light below 2 key shines on, "[{, "]}, ;:, ', K, ,<, L, .>" key can change to "PS, PB, PG, PD, INS, Del, HOME, END" function key.
+    Long press Fn + 3 until the pink light below 3 key shines on, "/?, Right Alt, Menu, Right Ctrl" can change to arrow keys. 
+    Long press Fn + 4 until the pink light below 4 key shines on, "WASD" key can change to arrow keys as well.
+
+Package Included:
+
+1 * Keyboard
+1 * Type-C Cable
+1 * English /Chinese Manual
